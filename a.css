@@ -1,0 +1,134 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+
+.main-introduction{
+    background-color: #254665;
+    float:left;
+    max-width: 250px;
+    color:white;
+}
+
+
+ul,
+ol {
+  list-style: none;
+}
+
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.avatar{
+    margin: 31px 60px 36px 33px
+}
+
+.infomation{
+    margin-left:33px;
+}
+
+
+.infomation-detail{
+    margin-bottom: 41px;
+}
+
+.infomation img{
+    vertical-align:middle;
+    margin-right: 10px;
+}
+
+.skill{
+    margin-left:33px;
+    margin-right:60px;
+}
+
+.Hobbies{
+    margin-left:33px;
+    margin-right:60px;
+    color:#92A3B2;
+}
+
+.progressBar {
+    height: 12px;
+    background: #254665;
+    border-radius: 2px;
+    margin: 4px 0 40px;
+  }
+
+  .progress {
+  height: 100%;
+  background: #92A3B2;
+  width: 70%;
+  border-radius: 2px;
+}
+
+.skill h5{
+    margin-bottom: 17px;
+}
+
+.Hobbies h2{
+    margin-bottom: 40px;
+}
+
+.Hobbies .clearfix li{
+    float: left;
+    width: 50%;
+    margin-bottom: 37px;
+}
+
+.details{
+    margin-top:50px;
+    margin-left:50px;
+    max-width: 743px;
+    float:left;
+}
+
+.details .name{
+    color:#254665
+}
+
+.direct{    
+    margin-bottom: 60px;
+    margin-top: 20px;
+}
+
+
+.details-img{
+    float: left;
+}
+
+.details-description{
+    float: left;
+}
+
+.details-description{
+    padding-top:10px;
+    margin-left:5px;
+}
+
+.details hr{
+    width: 570px;
+}
+
+.details-content{
+    margin-bottom: 72px;
+    height: 260px;
+}
+
+body{
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.details span{
+    display: inline-block;
+    font-size:18px;
+    font-weight:bold;
+    color: #254665;
+    margin-bottom:5px;
+}
