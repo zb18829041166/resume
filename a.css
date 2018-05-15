@@ -132,3 +132,19 @@ body{
     color: #254665;
     margin-bottom:5px;
 }
+
+#messageList{
+    border-top:1px solid black; 
+    margin-bottom: 50px;
+}
+
+.others-content h2{
+    margin-bottom: 20px;
+    text-align:center
+}
+
+
+#messageList li{
+    padding: 20px 0px;
+    border-bottom:1px solid black; 
+}
